@@ -166,7 +166,7 @@ namespace VegaMonitor
 
 
 
-        
+
 
 
         /*
@@ -194,5 +194,6 @@ namespace VegaMonitor
             this.Cursor = Cursors.Default;
         }
         */
+
     }
 }

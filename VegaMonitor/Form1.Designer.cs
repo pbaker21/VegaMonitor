@@ -46,6 +46,7 @@
             this.monitorGridView.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.monitorGridView.Size = new System.Drawing.Size(623, 640);
             this.monitorGridView.TabIndex = 0;
+//            this.monitorGridView.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.monitorGridView_CellContentClick);
             // 
             // monitor_label_status
             // 
